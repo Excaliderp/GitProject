@@ -23,6 +23,12 @@ footer {
 }
 
 main {
+  display: flex;
   flex-grow: 1;
 }
 
+.main-content {
+  background-color: #BCAA99;
+  padding: 48px;
+  width: 50%;
+}
