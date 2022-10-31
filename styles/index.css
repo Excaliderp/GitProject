@@ -32,3 +32,8 @@ main {
   padding: 48px;
   width: 50%;
 }
+
+.highlight {
+  color: dodgerblue;
+  text-decoration: line-through;
+}
